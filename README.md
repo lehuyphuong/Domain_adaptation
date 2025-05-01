@@ -40,5 +40,7 @@ Use google colab or any notebook to run script Adversarial_Discriminative_Domain
 
 ## 📉 Visualization
 ![Result](Imgs/output.png)
+
+
 ## 💡 References
-Yaroslav Ganin and Victor Lempitsky. "Unsupervised Domain Adaptation by Backpropagation", ICML 2015.
+[Yaroslav Ganin and Victor Lempitsky. "Unsupervised Domain Adaptation by Backpropagation", ICML 2015.](https://arxiv.org/abs/1409.7495)
